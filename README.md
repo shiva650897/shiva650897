@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Generative AI, Prompt engineering**
 
-- 💬 Ask me about **Machine Learning, SQL, AWS, Computer Vision, NLP, Tableau/Power BI ,ML Ops**
+- 💬 Ask me about **Python, Machine Learning, SQL, AWS, Computer Vision, NLP, Tableau/Power BI, ML Ops**
 
 - 📫 How to reach me **sk650897@gmail.com**
 
