@@ -7,11 +7,11 @@
 <p align="left"> <a href="https://twitter.com/mshivak65375872" target="blank"><img src="https://img.shields.io/twitter/follow/mshivak65375872?logo=twitter&style=for-the-badge" alt="mshivak65375872" /></a> </p>
 
 
-- 🔭 I’m currently working on **Natural Language Processing, Transformers, Deep Learning, Statistics**
+- 🔭 I’m currently working on **Agentic AI system, Generative AI, Natural Language Processing, Transformers, Deep Learning, Statistics**
 
-- 🌱 I’m currently learning **Generative AI, Prompt engineering**
+- 🌱 I’m currently exploring **Azure AI Foundry, Langgraph frameworks, Context engineering**
 
-- 💬 Ask me about **Python, Machine Learning, SQL, AWS, Computer Vision, NLP, Tableau/Power BI, ML Ops**
+- 💬 Ask me about **Python, Machine Learning, AWS, Azure, Computer Vision, NLP**
 
 - 📫 How to reach me **sk650897@gmail.com**
 
